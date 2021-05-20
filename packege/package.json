@@ -1,9 +1,9 @@
 {
   "name": "@nivdam/download-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "button.js",
-  "dependencies": { },  
+  "dependencies": {},
   "devDependencies": {
     "styled-components": "^5.3.0"
   },
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {    
+  "repository": {
     "type": "git",
     "url": "https://github.com/nivdam/download-button.git"
   },
